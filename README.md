@@ -33,4 +33,7 @@ To explore the Tableau dashboards, follow these steps:
 2. Navigate through the dashboards using the interactive features.
 3. Gain insights and stay informed about the COVID-19 situation in India.
 
+## DASHBOARD
+
+![Dashboard](https://github.com/user-attachments/assets/032c0038-a3f7-4ffa-87b6-09cc76af6583)
 
