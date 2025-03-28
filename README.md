@@ -15,8 +15,8 @@ Here are some key insights from our analysis:
 
 + **Maharashtra:** Tragically, this state has experienced a higher number of COVID-19-related fatalities. This underscores the importance of focusing efforts on healthcare infrastructure and prevention strategies in this region.
 
-## Data Sources
-We rely on authoritative sources for our data, ensuring accuracy and reliability. Please find the data sources in the project's documentation.
+## Data used
+- <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/covid_19_india.csv"> Covid-19 India</a>
 
 ## Live Data Updates
 The project includes live data feeds to ensure that the information remains current and pertinent.
