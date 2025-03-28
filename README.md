@@ -1,5 +1,5 @@
 # Data-Analyst-Covid-19-India-Dashboard-Tableau
-I analysis the Covid-19 Indian Data and create a Dashboard in Tableau This project focuses on analyzing the COVID-19 pandemic in India using data visualization and insights. Our goal is to provide a comprehensive view of the situation, leveraging Tableau for interactive data visualization
+I analysis the Covid-19 Indian Data and create a Dashboard in Tableau. This project focuses on analyzing the COVID-19 pandemic in India using data visualization and insights. Our goal is to provide a comprehensive view of the situation, leveraging Tableau for interactive data visualization
 
 ## Tableau Dashboards
 - **Covid-19 India Dashboard Tableau link:**  <a href="https://public.tableau.com/app/profile/ashutosh.maurya4181/viz/Book4_17431519738620/Dashboard12?publish=yes"> Dashboard Covid-19 India </a>
