@@ -2,7 +2,7 @@
 Welcome to the COVID-19 Analysis in India repository! This project focuses on analyzing the COVID-19 pandemic in India using data visualization and insights. Our goal is to provide a comprehensive view of the situation, leveraging Tableau for interactive data visualization
 
 ## Tableau Dashboards
-- <a href="https://public.tableau.com/app/profile/ashutosh.maurya4181/viz/Book4_17431519738620/Dashboard12?publish=yes"> Dashboard Covid-19 India </a>
+- Covid-19 India Dashboard Tableau link:  <a href="https://public.tableau.com/app/profile/ashutosh.maurya4181/viz/Book4_17431519738620/Dashboard12?publish=yes"> Dashboard Covid-19 India </a>
 
 + **Comprehensive Data Visualization:**   Explore daily case counts, testing rates, vaccination progress, and regional hotspots.
 + **Geospatial Mapping:** Discover infection clusters and regional patterns using interactive maps.
