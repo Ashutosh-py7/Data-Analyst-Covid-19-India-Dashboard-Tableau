@@ -2,7 +2,7 @@
 Welcome to the COVID-19 Analysis in India repository! This project focuses on analyzing the COVID-19 pandemic in India using data visualization and insights. Our goal is to provide a comprehensive view of the situation, leveraging Tableau for interactive data visualization
 
 ## Tableau Dashboards
-- Covid-19 India Dashboard Tableau link:  <a href="https://public.tableau.com/app/profile/ashutosh.maurya4181/viz/Book4_17431519738620/Dashboard12?publish=yes"> Dashboard Covid-19 India </a>
+- **Covid-19 India Dashboard Tableau link:**  <a href="https://public.tableau.com/app/profile/ashutosh.maurya4181/viz/Book4_17431519738620/Dashboard12?publish=yes"> Dashboard Covid-19 India </a>
 
 + **Comprehensive Data Visualization:**   Explore daily case counts, testing rates, vaccination progress, and regional hotspots.
 + **Geospatial Mapping:** Discover infection clusters and regional patterns using interactive maps.
@@ -16,12 +16,12 @@ Here are some key insights from our analysis:
 + **Maharashtra:** Tragically, this state has experienced a higher number of COVID-19-related fatalities. This underscores the importance of focusing efforts on healthcare infrastructure and prevention strategies in this region.
 
 ## Data used
-- <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/covid_19_india.csv"> Covid-19 India </a>
-- <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/AgeGroupDetails.csv"> Age Group Details </a>
-- <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/ICMRTestingLabs.csv"> ICMRT Testing Labs </a>
-- <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/IndividualDetails.csv"> Invividual Details </a>
-- <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/StatewiseTestingDetails.csv"> Statewise Testing Details </a>
-- <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/covid_vaccine_statewise.csv"> Covid Vaccine Statewise </a>
+- Covid-19 India: <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/covid_19_india.csv"> Covid-19 India </a>
+- Age Group Details: <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/AgeGroupDetails.csv"> Age Group Details </a>
+- ICMRT Testing Labs: <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/ICMRTestingLabs.csv"> ICMRT Testing Labs </a>
+- Invividual Details: <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/IndividualDetails.csv"> Invividual Details </a>
+- Statewise Testing Details: <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/StatewiseTestingDetails.csv"> Statewise Testing Details </a>
+- Covid Vaccine Statewise: <a href="https://github.com/Ashutosh-py7/Data-Analyst-Covid-19-India-Dashboard-Tableau/blob/main/covid_vaccine_statewise.csv"> Covid Vaccine Statewise </a>
 
 ## Live Data Updates
 The project includes live data feeds to ensure that the information remains current and pertinent.
